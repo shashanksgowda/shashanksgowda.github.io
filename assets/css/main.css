@@ -3211,6 +3211,7 @@ input, select, textarea {
 
 .experience {
 	display: flex;
+	align-items: center;
 }
 
 .experience-detail{
